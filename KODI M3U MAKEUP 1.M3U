@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,PANAMERICANA
+http://videos.visionlatina.tv:1935/LiveATV/zrhn/playlist.m3u8
+#EXTINF:-1,CMD
+http://videos.visionlatina.tv:1935/LiveATV/cil!2/playlist.m3u8
+#EXTINF:-1,Fox Sport
+http://videos.visionlatina.tv:1935/LiveATV/caco2/playlist.m3u8
