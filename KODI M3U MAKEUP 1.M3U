@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1,PANAMERICANA
-http://videos.visionlatina.tv:1935/LiveATV/zrhn/playlist.m3u8
-#EXTINF:-1,CMD
-http://videos.visionlatina.tv:1935/LiveATV/cil!2/playlist.m3u8
-#EXTINF:-1,Fox Sport
-http://videos.visionlatina.tv:1935/LiveATV/caco2/playlist.m3u8
 #EXTINF:-1,Antena 30
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/antena-3.gif" group-title="ENTRETENIMIENTO",Antena 3
+#EXTINF:-1 tvg-logo="http://files.alexyandrea.webnode.es/200002241-e718ae795a/cmd_peru.png",Antena 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 #EXTINF:-1,Antena 32
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
