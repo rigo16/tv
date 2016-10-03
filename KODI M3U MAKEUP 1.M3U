@@ -7,6 +7,16 @@ http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png/revision/latest?cb=20121218202819",Telemundo  39
 http://stream.ssh101.com:1935/live/anahix2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif",Milenio Noticias
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+
+#EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1595.png",CB24 Noticias Centroamérica
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/607513740649496576/YERb9fr6.jpg",EfektoTV Noticias
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1459.png" Euronews en Español
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://14575-presscdn-0-73.pagely.netdna-cdn.com/wp-content/uploads/2014/05/depelicula_gallery.jpg",Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/663825937717460992/57QOHHpU.jpg",Espana Atreseries
@@ -15,7 +25,13 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
 #EXTINF:-1 tvg-logo="http://coolradiohd.com/wp-content/uploads/2015/02/logo-cool-103.png",Cool Musica (Ar)
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo=" http://vignette1.wikia.nocookie.net/logopedia/images/4/41/Fox_nfl_alternate_logo_2014_present_by_chenglor55-d97rdiz.png ",FOX-NFL (USA)
+
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/cnn.png",CNN International
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/419.png",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/41/Fox_nfl_alternate_logo_2014_present_by_chenglor55-d97rdiz.png ",FOX-NFL (USA)
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/287.png" group-title="DEPORTES - SPORTS", Pac-12 Arizona (USA)
 http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/master.m3u8?sd=10&rebase=on
