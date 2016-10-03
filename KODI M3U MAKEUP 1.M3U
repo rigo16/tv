@@ -48,4 +48,6 @@ http://server5.stweb.tv/radioone/live/playlist.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imagini3.metalhead.ro/image/2/730/250/60334562/Este-oficial--vom-avea-Rock-TV-in-prima-parte-a-acestui-an.jpg" ,Rock TV MUSIC
 http://212.96.163.139:8020/1-tv-pc/924.m3u8
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigación-discovery.gif" group-title="MUNDO Y CULTURA",Investigation Discovery *
+http://premium.exabytetv.info/play3/10011110100100100011101100000000011-ExabyteTV/263/exabytetv.m3u8
 
