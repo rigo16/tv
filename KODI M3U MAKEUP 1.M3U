@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo=" http://www.tv14.net/wp-content/uploads/2011/01/panamericana-television-logo.jpg", PANAMERICANA PERU
+#EXTINF:-1,tvg-logo=" http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/062011/captura_de_pantalla_2011-06-24_a_las_18.16.54.png?itok=FDmMSIlc", PANAMERICANA PERU
 http://208.77.20.51:8181/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-logo="http://i27.tinypic.com/2exyaua.jpg",RPP Noticias PERU
 rtmp://rpplivefs.fplive.net/rpp02live-live/streamRPPTV
@@ -19,25 +19,20 @@ http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 #EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1595.png",CB24 Noticias Centroamérica
 http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://qmnoticias.com/uploads/cliente/marca/20150406121942_logo_qm_alpha.png",Noticias Argentina Qm TV
+#EXTINF:-1 tvg-logo="http://qmnoticias.com/uploads/cliente/marca/20150406121942_logo_qm_alpha.png",Argentina Noticias Qm TV
 http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/master.m3u8
 #EXTINF:-1 tvg-logo="" , Argentina TNoticias HD
 rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-0LF36VQNW44/VxQjslUpD5I/AAAAAAAACpk/GUCrMdb6sFUIE5K9-tP4CwEeKfherWJowCLcB/s1600/C5N%2Ben%2Bvivo%2Bonline.jpg",C5N Argentina
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-0LF36VQNW44/VxQjslUpD5I/AAAAAAAACpk/GUCrMdb6sFUIE5K9-tP4CwEeKfherWJowCLcB/s1600/C5N%2Ben%2Bvivo%2Bonline.jpg",Argentina C5N 
 http://server7.stweb.tv/c5n/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ZkYMNG-uvv4/AAAAAAAAAAI/AAAAAAAAAAA/_gDqN8rbxTw/s900-c-k-no-rj-c0xffffff/photo.jpg", Argentina Telpin Canal 2
 rtmp://201.219.100.30:1935/telpintv/ttv.stream_360p
 
-#EXTINF:-1 tvg-logo="",Canal 10 Argentina
+#EXTINF:-1 tvg-logo="",Argentina Canal 10 
 http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tectv.gob.ar/resources/img/logo.png",Argentina Tec TV
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ARGENTINA", Canal 13 HD (Sólo Kodi)
-rtsp://stream.eltrecetv.com.ar:554/live13/13tv/13tv1
-#EXTINF:-1 tvg-logo="",El 13 TV - solo kodi
-rtmp://stream.eltrecetv.com.ar/ app=live13/13tv playpath=13tv1 swfUrl=http://static.eltrecetv.com.ar/sites/all/libraries/jwplayer/player-licensed.swf live=true timeout=15 pageUrl=http://www.eltrecetv.com.ar/vivo
 
 #EXTINF:-1 tvg-logo="http://www.abctelefonos.com/images/comercios/289120_60288_original.jpg", Argentina Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8
