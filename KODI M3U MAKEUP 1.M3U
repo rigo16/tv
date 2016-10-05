@@ -1,10 +1,13 @@
 #EXTM3U
+#EXTINF:-1,tvg-logo=" http://www.tv14.net/wp-content/uploads/2011/01/panamericana-television-logo.jpg", PANAMERICANA PERU
+http://208.77.20.51:8181/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-logo="http://i27.tinypic.com/2exyaua.jpg",RPP Noticias PERU
 rtmp://rpplivefs.fplive.net/rpp02live-live/streamRPPTV
 #EXTINF:-1 tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1161.png", Latina PERU
 http://ooyalahd2-f.akamaihd.net/i/latinlima01_delivery@42383/master.m3u8
 #EXTINF:-1 tvg-logo="http://i61.tinypic.com/1z2murt.jpg", Capital TV PERU
 rtmp://rpplivefs.fplive.net/rpp02live-live/streamCAPTV
+
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png/revision/latest?cb=20121218202819",Telemundo  39
 http://stream.ssh101.com:1935/live/anahix2/chunklist.m3u8
