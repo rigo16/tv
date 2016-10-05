@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo=" http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/062011/captura_de_pantalla_2011-06-24_a_las_18.16.54.png?itok=FDmMSIlc", PANAMERICANA PERU
+#EXTINF:-1 tvg-logo=" http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/062011/captura_de_pantalla_2011-06-24_a_las_18.16.54.png?itok=FDmMSIlc", PANAMERICANA PERU
 http://208.77.20.51:8181/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-logo="http://i27.tinypic.com/2exyaua.jpg",RPP Noticias PERU
 rtmp://rpplivefs.fplive.net/rpp02live-live/streamRPPTV
